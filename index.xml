@@ -22,8 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>About section of the website.
-Thanks for reading!</description>
+      <description>My name is AJ. I am a software developer who is passionate about programming, design and product development. I spent last 6 years working as a lead engineer building awesome testing tools which are being used by many big name companies in thier product testing. During my free time, I love to learn about</description>
     </item>
     
     <item>
@@ -43,8 +42,9 @@ Please feel free to contact me using below:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/projects/</guid>
-      <description>List of projects:
-ShowTrackr Project Screenshots </description>
+      <description>ShowTrackr ShowTrackr is an application for avid tv show lovers. It lets you exlore the latest tv shows, save them for later viewing and recommend your favorite tv shows to your close ones. This project is still in beta and done as a hobby to learn more advanced iOS development topics.
+ Programmatic View and Layouts Dependency Injection UICollectionviewcompositionallayout Working with remote API Kingfisher  Github: github.com/abatjarg/ShowTrackrProject 
+Screenshots LearnByDoing LearnByDoing is a open source project to keep collection of sample application that helped me to learn iOS development.</description>
     </item>
     
   </channel>
